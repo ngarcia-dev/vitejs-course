@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Super Mario Bros.",
+    "year": "1985-09-13",
+    "genre": "Platformer",
+    "stock": 10
+  },
+  {
+    "name": "The Legend of Zelda",
+    "year": "1986-02-21",
+    "genre": "Action-adventure",
+    "stock": 0
+  },
+  {
+    "name": "Metroid",
+    "year": "1986-08-06",
+    "genre": "Action-adventure",
+    "stock": 3
+  },
+  {
+    "name": "Kid Icarus",
+    "year": "1986-12-19",
+    "genre": "Platformer",
+    "stock": 7
+  }
+]
